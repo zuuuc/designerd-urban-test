@@ -1,3 +1,3 @@
 # DesigNerd URBAN — site de test
 
-Versiunea compilată a aplicației (v0.6.0): https://zuuuc.github.io/designerd-urban-test/
+Versiunea compilată a aplicației (v0.7.0): https://zuuuc.github.io/designerd-urban-test/
